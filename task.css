@@ -1,0 +1,116 @@
+/* NAVBAR1 */
+.navbar1{
+    background-color:#C87D52 ;
+    padding-bottom: 10px;
+}
+.nav-logo{
+    width: 200px;
+    margin-left: 40px; 
+}
+ .nav-link{
+    margin-left: 15px;
+    color:white;
+    font-size: 18px;
+}
+body{
+    font-family:sans-serif;
+}
+/* END */
+
+
+/* Navbar2 */
+.list{
+    list-style: none;
+}
+.nav-content2{
+    margin-right: 50px; 
+    color: chocolate;
+}
+.logo2{
+    height: 230px;
+    width: 200px;
+    transition: 1s;
+}
+.logo2:hover{
+    transform: scale(1.1);
+}
+/* END */
+
+
+
+/* MAIN CONTENT IMAGES */
+.img1{
+    height: 300px;
+    width: 100%;   
+   }
+   .img2{
+       margin-left: 10px;
+       width: 90%;    
+   }
+   .img3{
+       width: 80%;
+   }
+   
+
+/* PIES TABLE */
+.pies-heading{
+    color: chocolate;
+    letter-spacing: 4px;
+}
+
+th,td,tbody{
+    border: 2px solid black;
+    text-align: center;
+}
+
+
+
+/* CONTACT */
+.Contact-Fieldset{
+border: 3px solid chocolate;
+border-radius: 10px;
+}
+.form-control{
+    border: 3px solid lightgray;
+}
+.form-button{
+    background-color: #C87D52;
+    margin-top: 20px;
+    width: 100px;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 3px;
+}
+
+/* END */
+
+
+/* ABOUT VIDEO */
+
+.embed-responsive {
+    position: relative;
+    display: block;
+    width: 100%;
+    padding: 0;
+    overflow: hidden;
+  } 
+   
+
+/* FOOTER */
+
+.footer{
+    padding: 20px;
+    line-height: 1;
+    background-color:#FFD0C9 ;
+}
+
+
+
+
+
+
+
+
+ 
+ 

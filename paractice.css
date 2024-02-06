@@ -1,0 +1,29 @@
+/* .nav-logo{
+    width: 250px;
+    
+}
+.navbar-1{
+    
+    background-color: chocolate;
+    padding: 20px;
+}
+
+
+.nav-1{
+    background-color: chocolate;
+
+
+} */
+.navbar1{
+    background-color:rgb(194, 136, 88) ;
+    padding-bottom: 15px;
+}
+.nav-logo{
+    width: 200px;
+    margin-left: 40px; 
+}
+ .nav-link{
+    margin: 20px;
+    color:white;
+    font-size: 18px;
+}
